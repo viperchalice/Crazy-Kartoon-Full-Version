@@ -241,4 +241,4 @@ This repository serves as the official landing page for Crazy KartOON. The softw
 **Get the most recent version of Crazy KartOON today!**
 
 ---
-**Last updated:** 2026-11-02 17:37:13 UTC
+**Last updated:** 2026-11-03 00:14:34 UTC
